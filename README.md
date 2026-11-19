@@ -1,7 +1,10 @@
 # AWS VPC, EC2 & Linux Infrastructure
 
 ## Project Overview
-This project demonstrates hands-on deployment and basic operations of an AWS-hosted Linux web server.
+- Deployed an Amazon Linux EC2 instance within a custom AWS VPC with public and private subnets, route tables and Internet Gateway.
+- Installed Nginx, hosted a custom HTML webpage and configured CloudWatch CPU utilization monitoring.
+- Performed a controlled Nginx outage simulation, investigated service status and connectivity, and restored HTTP 200.
+
 
 ## Architecture Diagram
 ![aws_architecture](https://github.com/Ronny89893/aws-vpc-ec2-linux-infrastructure/blob/6f5c1a6d9e260b55d469b2117c2137de342d4712/architecture/aws-architecture.png)
