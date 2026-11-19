@@ -43,6 +43,17 @@ This project demonstrates hands-on deployment and basic operations of an AWS-hos
 ## Troubleshooting Documentation
 [View Linux Troubleshooting Report](troubleshooting.md)
 
+## Testing and Validation
+
+### 1. Nginx Website
+![Working Nginx Website](screenshots/Webpage.png)
+
+### 2. CloudWatch CPU Alarm
+![CloudWatch CPU Alarm](screenshots/CloudWatch Alarm.png)
+
+### 3. Linux Service Recovery
+![Nginx Recovery](screenshots/Nginx.png)
+
 ## Project Scope
 This is a guided hands-on learning project demonstrating foundational AWS infrastructure and operational skills. It is not intended to represent a production-ready deployment.
 
