@@ -1,19 +1,19 @@
-# aws-vpc-ec2-linux-infrastructure
+# AWS VPC, EC2 & Linux Infrastructure
 
 ## Project Overview
-A hands-on AWS Infrastructure learning project focused on networking Linux administration, security and cloud monitoring.
+This project demonstrates hands-on deployment and basic operations of an AWS-hosted Linux web server.
 
-## VPC Planning
+## Project Implementation
+- Amazon VPC
+- Amazon EC2 (Amazon Linux)
+- Internet Gateway and Route Tables
+- Security Groups
+- Nginx
+- Amazon CloudWatch
+- EC2 Instance Connect
+- Linux CLI
 
-VPC Name: company-vpc
-IPv4 CIDR: 10.0.0.0/16
-Subnet(planned): 10.0.1.0/24
 
-## Learning Objectives
-- Understand AWS VPC networking
-- Configure subnets & route tables
-- Deploy an Amazon Linux EC2 instance
-- Configure security groups
-- Monitor infrastructure using CloudWatch
+
 
   
