@@ -49,7 +49,7 @@ This project demonstrates hands-on deployment and basic operations of an AWS-hos
 ![Working Nginx Website](screenshots/Webpage.png)
 
 ### 2. CloudWatch CPU Alarm
-![CloudWatch CPU Alarm](screenshots/Cloudwatch Alarm.png)
+![CloudWatch CPU Alarm](screenshots/CloudwatchAlarm.png)
 
 ### 3. Linux Service Recovery
 ![Nginx Recovery](screenshots/Nginx.png)
