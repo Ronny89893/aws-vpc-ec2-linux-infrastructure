@@ -40,6 +40,9 @@ This project demonstrates hands-on deployment and basic operations of an AWS-hos
 9. Investigated the service status, HTTP connectivity, listening ports and logs.
 10. Restored Nginx and confirmed HTTP 200.
 
+## Troubleshooting Documentation
+[View Linux Troubleshooting Report](troubleshooting.md)
+
 ## Project Scope
 This is a guided hands-on learning project demonstrating foundational AWS infrastructure and operational skills. It is not intended to represent a production-ready deployment.
 
